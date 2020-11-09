@@ -1,3 +1,4 @@
+This project of e-commerce shop made with the use of React and Redux 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
