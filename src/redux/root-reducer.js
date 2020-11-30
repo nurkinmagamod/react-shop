@@ -17,7 +17,7 @@ const rootReducer = combineReducers({
   user: userReducer,
   cart: cartReducer,
   directory: directoryReducer,
-  shopReducer: shopReducer,
+  shop: shopReducer,
 });
 
 export default persistReducer(persistConfig, rootReducer);
